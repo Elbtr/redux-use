@@ -1,0 +1,11 @@
+pertama buat file json
+$ npm init -y 
+
+
+lalu install redux 
+$ npm install redux redux-react
+
+dan contoh penggunaan nya ada di file redux-demo.js 
+
+disitu bisa di lihat cara penggunaan redux 
+dan bagaimana redux merender sebuah code
